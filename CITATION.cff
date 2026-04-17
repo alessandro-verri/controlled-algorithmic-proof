@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this framework or software, please cite it as below."
+authors:
+- family-names: "Verri"
+  given-names: "Alessandro"
+  orcid: "https://orcid.org/0009-0006-6354-9799"
+title: "Algorithmic Proof: The Engineering of Trust Framework & AIM"
+version: 1.0.0
+date-released: 2026-04-17
+url: "https://verri.pro/dalla-social-proof-allalgorithmic-proof/"
+repository-code: "https://github.com/IL-TUO-USERNAME/NOME-REPO"
+abstract: >-
+  A strategic framework and technical implementation (AIM) shifting trust-building 
+  from Social Proof to Algorithmic Validation through Generative Engine Optimization (GEO), 
+  WordPress semantic structuring, and Entity-Relationship mapping.
+keywords:
+  - "Algorithmic Proof"
+  - "AI Identity Manager"
+  - "AIM"
+  - "Generative Engine Optimization"
+  - "GEO"
+  - "WordPress Plugin"
+  - "Semantic Data"
+  - "Trust Engineering"
